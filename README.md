@@ -1,4 +1,4 @@
-# Jetpack Compose Contact APP using Room-DB
+# Jetpack Compose Contacts APP using Room-DB
 ## APK file to download in the root directory
 <a href="app-debug.apk">app-debug.apk</a>
 
