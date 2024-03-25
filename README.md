@@ -1,8 +1,8 @@
-## Jetpack Compose Contact APP using Room-DB
-# APK file to download in the root directory
+# Jetpack Compose Contact APP using Room-DB
+## APK file to download in the root directory
 <a href="app-debug.apk">app-debug.apk</a>
 
-# Screenshots:
+## Screenshots:
 Normal screen: <br>
 <img src="1.jpg" width="250">
 
